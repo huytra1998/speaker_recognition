@@ -1,0 +1,4 @@
+audio_1,audio_2,label
+test_001.wav,test_002.wav,0
+test_003.wav,test_004.wav,1
+test_005.wav,test_006.wav,1

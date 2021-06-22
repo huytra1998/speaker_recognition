@@ -1,0 +1,9 @@
+torch
+torchaudio
+numpy
+scipy
+scikit-learn
+tqdm
+pyyaml
+flask
+flask-restful
